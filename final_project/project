@@ -1,0 +1,6 @@
+cd /home/projects/xzceb-flask_eng_fr
+git config --global user.email t.kissinger@outlook.com
+git config --global user.name tkissinger2
+git add .
+git commit -m"Temporary changes"
+git push
